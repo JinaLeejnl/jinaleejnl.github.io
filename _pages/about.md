@@ -66,7 +66,7 @@ My current research interests span LLM pre-training, large language diffusion mo
   </li>
 
   <li>
-   <strong> From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment. ACL 2026 main. </strong>. 
+   <strong> From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment. ACL 2026 main. </strong>
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2503.15463"> <strong>[paper]</strong></a>
         <a href="https://github.com/JinaLeejnl/AlignX"> <strong>[code]</strong></a>
