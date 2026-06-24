@@ -27,10 +27,10 @@ My current research interests span LLM pre-training, large language diffusion mo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://github.com/ML-GSAI/ReFusion/blob/main/images/refusion_visualization.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://raw.githubusercontent.com/ML-GSAI/ReFusion/main/images/refusion_visualization.gif' alt="ReFusion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**](https://arxiv.org/abs/2512.13586) <img src='https://img.shields.io/github/stars/horseee/ReFusion.svg?style=social&label=Star' alt="sym" height="100%">
+[**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**](https://arxiv.org/abs/2512.13586) <img src='https://img.shields.io/github/stars/ML-GSAI/ReFusion.svg?style=social&label=Star' alt="GitHub stars">
 
 **Jia-Nan Li**, Jian Guan, Wei Wu, Chongxuan Li
 
@@ -46,8 +46,54 @@ My current research interests span LLM pre-training, large language diffusion mo
 </div>
 </div>
 
+<ul>
+  <li>
+    <strong> 2D-TPE: Two-Dimensional Positional Encoding Enhances Table Understanding for Large Language Models. WWW 2025. </strong>
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2409.19700"> <strong>[paper]</strong></a>
+        <a href="https://github.com/JinaLeejnl/2D-TPE"> <strong>[code]</strong></a>
+    </div>
+    <div><i><strong>Jia-Nan Li</strong>, Jian Guan, Wei Wu, Zhengtao Yu, Rui Yan. </i></div>
+  </li>
+  
+  <li>
+    <strong> StreamingDialogue: Prolonged Dialogue Learning via Long Context Compression with Minimal Losses. NeurIPS 2024. </strong>
+    <div style="display: inline">
+        <a href="https://www.proceedings.com/079017-2733.html"> <strong>[paper]</strong></a>
+        <a href="https://github.com/JinaLeejnl/StreamingDialogue"> <strong>[code]</strong></a>
+    </div>
+    <div><i><strong>Jia-Nan Li</strong>, Quan Tu, Cunli Mao, Zhengtao Yu, Ji-Rong Wen, Rui Yan. </i></div>
+  </li>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+  <li>
+   <strong> From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment. ACL 2026 main. </strong>. 
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2503.15463"> <strong>[paper]</strong></a>
+        <a href="https://github.com/JinaLeejnl/AlignX"> <strong>[code]</strong></a>
+        <a href="https://huggingface.co/datasets/JinaLeejnl/AlignX"> <strong>[dataset]</strong></a>
+    </div>
+    <div><i><strong>Jia-Nan Li</strong>, Jian Guan, Songhao Wu, Wei Wu, Rui Yan. </i></div>
+  </li>  
+
+  <li>
+   <strong> A Survey on Personalized Alignment—The Missing Piece for Large Language Models in Real-World Applications. ACL 2025 Findings. </strong>. 
+    <div style="display: inline">
+        <a href="https://aclanthology.org/2025.findings-acl.277/"> <strong>[paper]</strong></a>
+    </div>
+    <div><i>Jian Guan*, Junfei Wu*, <strong>Jia-Nan Li*</strong>, Chuanqi Cheng*, Wei Wu.</i></div>
+  </li>  
+
+  <li>
+   <strong> Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals. Preprint. </strong>. 
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2505.18071"> <strong>[paper]</strong></a>
+        <a href="https://github.com/AntResearchNLP/AlignXplore"> <strong>[code]</strong></a>
+        <a href="https://huggingface.co/JinaLeejnl/AlignXplore-7B-Streaming"> <strong>[model]</strong></a>
+    </div>
+    <div><i><strong>Jia-Nan Li</strong>, Jian Guan, Wei Wu, Rui Yan. </i></div>
+  </li>  
+  
+</ul>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
