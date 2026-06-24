@@ -268,3 +268,17 @@
     display: none;
   }
 }
+
+.author__avatar {
+  width: 180px;
+  aspect-ratio: 2 / 3;
+  margin: 0 auto 1rem;
+}
+
+.author__avatar img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50% !important;
+}
