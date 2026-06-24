@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jia-Nan Li"
-description              : "Gaoling School of Artificial Intelligence, Renmin University of China"
+description              : "Academic homepage of Jia-Nan Li."
 repository               : "JinaLeejnl/jinaleejnl.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jia-Nan Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Gaoling School of Artificial Intelligence, Renmin University of China"
+  bio              : "Ph.D. Student at Gaoling School of Artificial Intelligence (GSAI), Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
