@@ -27,7 +27,7 @@ My current research interests span LLM pre-training, large language diffusion mo
 
 # 📝 Publications 
 
-<div class='paper-box' style="width: 100%; max-width: none; display: grid; grid-template-columns: 28% minmax(0, 1fr); column-gap: 2rem; align-items: center; box-sizing: border-box;">
+<div class='paper-box' style="width: 100%; max-width: none; display: grid; grid-template-columns: 28% minmax(0, 1fr); column-gap: 1.2%; align-items: start; box-sizing: border-box;">
   <div class='paper-box-image' style="width: 100%; max-width: none;">
     <div>
       <div class="badge">ICLR 2026</div>
