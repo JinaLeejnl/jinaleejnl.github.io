@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student at the Gaoling School of Artificial Intelligence (GSAI), Renmin University of China, advised by [Prof. Chongxuan Li](https://zhenxuan00.github.io/). I am expected to receive my Ph.D. degree in 2029. Before that, I received my B.S. degree from Southeast University (SEU) in 2024, where I was advised by [Prof. Yuheng Jia](https://jyh-learning.github.io/).
 
-My current research interests span LLM pre-training, novel LLM architectures such as large language diffusion models, and efficient LLM inference.
+My current research interests span LLM pre-training, large language diffusion models, and efficient LLM inference.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
