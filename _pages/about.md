@@ -110,5 +110,5 @@ My current research interests span LLM pre-training, large language diffusion mo
 -->
 
 # 💻 Internships
-- *2025.10 - Now*, dLLM Pre-training Team, Ant Group.
-- *2024.03 - 2025.09*, Natural Language Processing Lab, Ant Group. Mentor: [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
+- *2025.10 - Present*, Diffusion LLM (dLLM) Pre-training Team, Ant Group.
+- *2024.03 - 2025.09*, Research Intern, Natural Language Processing Lab, Ant Group. Mentor: [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
