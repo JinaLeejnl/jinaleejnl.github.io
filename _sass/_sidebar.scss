@@ -271,7 +271,7 @@
 
 .author__avatar {
   width: 180px;
-  aspect-ratio: 1 / 1.12;
+  aspect-ratio: 1 / 1.08;
   margin: 0 auto 1rem;
   overflow: hidden;
   border-radius: 50%;
@@ -281,7 +281,7 @@
   width: 100% !important;
   height: 100% !important;
   object-fit: cover;
-  object-position: center 72%;
-  transform: scale(1.08);
+  object-position: center bottom;
+  transform: none;
   border-radius: 50% !important;
 }
