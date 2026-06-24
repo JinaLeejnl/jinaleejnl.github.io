@@ -27,17 +27,25 @@ My current research interests span LLM pre-training, large language diffusion mo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://github.com/ML-GSAI/ReFusion/blob/main/images/refusion_visualization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**](https://arxiv.org/abs/2512.13586) <img src='https://img.shields.io/github/stars/horseee/ReFusion.svg?style=social&label=Star' alt="sym" height="100%">
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jia-Nan Li**, Jian Guan, Wei Wu, Chongxuan Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Full KV Cache Reuse: The first MDM with full KV cache reuse for every decoded token.
+- Stronger and Faster: 34% average performance gain over LLaDA/Dream with over 18× higher decoding throughput, and 2.33× faster than Qwen3-8B on average.
+
+<div style="display: inline">
+    <a href="https://arxiv.org/abs/2512.13586"> <strong>[paper]</strong></a>
+    <a href="https://github.com/ML-GSAI/ReFusion"> <strong>[code]</strong></a>
+    <a href="https://huggingface.co/GSAI-ML/ReFusion"> <strong>[model]</strong></a>
+</div>
+
 </div>
 </div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
