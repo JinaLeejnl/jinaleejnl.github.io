@@ -22,8 +22,8 @@ I am currently a Ph.D. student at the Gaoling School of Artificial Intelligence 
 My current research interests span LLM pre-training, large language diffusion models, and efficient LLM inference.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Apr 2026*: &nbsp;🎉🎉 Paper “[AlignX](https://arxiv.org/abs/2503.15463)” accepted to ACL 2026 Main.
+- *Jan 2026*: &nbsp;🎉🎉 Paper “[ReFusion](https://arxiv.org/abs/2512.13586)” accepted to ICLR 2026.
 
 # 📝 Publications 
 
