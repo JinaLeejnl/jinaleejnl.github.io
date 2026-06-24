@@ -27,17 +27,17 @@ My current research interests span LLM pre-training, large language diffusion mo
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image' style="flex: 0 0 30%; max-width: 30%;">
+<div class='paper-box' style="width: 100%; max-width: none; display: grid; grid-template-columns: 30% minmax(0, 1fr); column-gap: 2rem; align-items: center; box-sizing: border-box;">
+  <div class='paper-box-image' style="width: 100%; max-width: none;">
     <div>
       <div class="badge">ICLR 2026</div>
       <img src='https://raw.githubusercontent.com/ML-GSAI/ReFusion/main/images/refusion_visualization.gif'
            alt="ReFusion"
-           style="width: 100%; height: auto;">
+           style="width: 100%; height: auto; display: block;">
     </div>
   </div>
 
-  <div class='paper-box-text' markdown="1" style="flex: 1; min-width: 0;">
+  <div class='paper-box-text' markdown="1" style="width: 100%; max-width: none; min-width: 0;">
 
 [**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**](https://arxiv.org/abs/2512.13586) <img src='https://img.shields.io/github/stars/ML-GSAI/ReFusion.svg?style=social&label=Star' alt="GitHub stars">
 
