@@ -28,7 +28,7 @@ My current research interests span LLM pre-training, large language diffusion mo
 # 📝 Publications 
 
 <div class='paper-box'>
-  <div class='paper-box-image' style="flex: 0 0 35%; max-width: 35%;">
+  <div class='paper-box-image' style="flex: 0 0 30%; max-width: 30%;">
     <div>
       <div class="badge">ICLR 2026</div>
       <img src='https://raw.githubusercontent.com/ML-GSAI/ReFusion/main/images/refusion_visualization.gif'
@@ -37,7 +37,7 @@ My current research interests span LLM pre-training, large language diffusion mo
     </div>
   </div>
 
-  <div class='paper-box-text' markdown="1" style="flex: 1;">
+  <div class='paper-box-text' markdown="1" style="flex: 1; min-width: 0;">
 
 [**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**](https://arxiv.org/abs/2512.13586) <img src='https://img.shields.io/github/stars/ML-GSAI/ReFusion.svg?style=social&label=Star' alt="GitHub stars">
 
@@ -53,9 +53,6 @@ My current research interests span LLM pre-training, large language diffusion mo
 </div>
 
   </div>
-</div>
-
-</div>
 </div>
 
 <ul>
