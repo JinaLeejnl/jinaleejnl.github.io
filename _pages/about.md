@@ -95,6 +95,7 @@ My current research interests span LLM pre-training, large language diffusion mo
   
 </ul>
 
+<!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -106,6 +107,8 @@ My current research interests span LLM pre-training, large language diffusion mo
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.10 - Now*, dLLM Pre-training Team, Ant Group.
+- *2024.03 - 2025.09*, Natural Language Processing Lab, Ant Group. Mentor: [Wei Wu](https://sites.google.com/view/wei-wu-homepage/home).
