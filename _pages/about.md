@@ -76,7 +76,7 @@ My current research interests span LLM pre-training, large language diffusion mo
   </li>  
 
   <li>
-   <strong> A Survey on Personalized Alignment—The Missing Piece for Large Language Models in Real-World Applications. ACL 2025 Findings. </strong>. 
+   <strong> A Survey on Personalized Alignment—The Missing Piece for Large Language Models in Real-World Applications. ACL 2025 Findings. </strong>
     <div style="display: inline">
         <a href="https://aclanthology.org/2025.findings-acl.277/"> <strong>[paper]</strong></a>
     </div>
@@ -84,7 +84,7 @@ My current research interests span LLM pre-training, large language diffusion mo
   </li>  
 
   <li>
-   <strong> Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals. Preprint. </strong>. 
+   <strong> Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals. Preprint. </strong>
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2505.18071"> <strong>[paper]</strong></a>
         <a href="https://github.com/AntResearchNLP/AlignXplore"> <strong>[code]</strong></a>
