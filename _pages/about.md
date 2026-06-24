@@ -27,20 +27,32 @@ My current research interests span LLM pre-training, large language diffusion mo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://raw.githubusercontent.com/ML-GSAI/ReFusion/main/images/refusion_visualization.gif' alt="ReFusion" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0 0 35%; max-width: 35%;">
+    <div>
+      <div class="badge">ICLR 2026</div>
+      <img src='https://raw.githubusercontent.com/ML-GSAI/ReFusion/main/images/refusion_visualization.gif'
+           alt="ReFusion"
+           style="width: 100%; height: auto;">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1" style="flex: 1;">
 
 [**ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding**](https://arxiv.org/abs/2512.13586) <img src='https://img.shields.io/github/stars/ML-GSAI/ReFusion.svg?style=social&label=Star' alt="GitHub stars">
 
 **Jia-Nan Li**, Jian Guan, Wei Wu, Chongxuan Li
 
-- Full KV Cache Reuse: The first MDM with full KV cache reuse for every decoded token.
-- Stronger and Faster: 34% average performance gain over LLaDA/Dream with over 18× higher decoding throughput, and 2.33× faster than Qwen3-8B on average.
+- **Full KV Cache Reuse:** The first MDM with full KV cache reuse for every decoded token.
+- **Stronger and Faster:** 34% average performance gain over LLaDA/Dream with over 18× higher decoding throughput, and 2.33× faster than Qwen3-8B on average.
 
 <div style="display: inline">
-    <a href="https://arxiv.org/abs/2512.13586"> <strong>[paper]</strong></a>
-    <a href="https://github.com/ML-GSAI/ReFusion"> <strong>[code]</strong></a>
-    <a href="https://huggingface.co/GSAI-ML/ReFusion"> <strong>[model]</strong></a>
+    <a href="https://arxiv.org/abs/2512.13586"><strong>[paper]</strong></a>
+    <a href="https://github.com/ML-GSAI/ReFusion"><strong>[code]</strong></a>
+    <a href="https://huggingface.co/GSAI-ML/ReFusion"><strong>[model]</strong></a>
+</div>
+
+  </div>
 </div>
 
 </div>
